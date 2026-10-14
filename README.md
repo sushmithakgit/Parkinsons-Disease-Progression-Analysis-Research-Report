@@ -14,7 +14,7 @@ The project combines three parts:
 2. **Drug analysis** comparing PD medications by UPDRS III improvement
 3. **A clinical case study** following one patient from symptom onset through diagnosis and treatment
 
-This work was carried out under the guidance of **Dr. Shrivarthan**, `[Neurologist]`, Vihaa Hospital, in collaboration with a movement disorders neurologist.
+This work was carried out under the guidance of **Dr. Shrivarthan**, Neurologist, Vihaa Hospital, in collaboration with a movement disorders neurologist.
 
 ## 🗂️ Dataset
 
